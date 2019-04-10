@@ -1,2 +1,3 @@
 # hello-world
-as tutorial
+
+this is kazu-code's pages as github tutorial test
